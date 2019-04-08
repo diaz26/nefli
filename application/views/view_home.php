@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="col-lg-6">
-        <p style="text-align:center"><b>Registrate</b> </p>
+        <h1 style="text-align:center"><b>Registrate</b> </h1>
         <form action="<?= base_url(); ?>index.php/registrar/add" method="post">
           <div class="form-group">
             <label for=""><b>Nombre</b> </label>
